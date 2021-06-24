@@ -2,7 +2,7 @@
 
 Welcome to my github profile!
 
-- 💪 I'm currently working on LTR++, a  __Learning to Rank__ library based on RankLib.
+- 💪 I'm currently working with  __Learning to Rank__, __Information Retrieval__ and __Deep Learning__.
 - 📫 How to reach me: mfprezende@gmail.com
 
 
