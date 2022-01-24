@@ -1,9 +1,19 @@
-### Hi there 👋
+## About Me
 
-Welcome to my github profile!
+Hi, I'm Marcos Pontes. I'm mainly concerned about how we can access, represent, and retrieve data effectively and with high accuracy in search engines and databases. Nevertheless, I'm also interested in many other computer science stuff, especially Machine Learning. I'm currently in the final stages of my Computer Science graduation at UFOP (Universidade Federal de Ouro Preto) and I'm trying to live healthy in an intersection between industry and academic research in this weird world.
 
-- 💪 I'm currently working with  __Natural Language Processing__, __Information Retrieval__ and __Machine Learning__.
-- 📫 How to reach me: mfprezende@gmail.com
+### Other information
+
+- Languages: Portuguese, English
+- Citizenship: Brazil
+- Born: Jan 12, 2000
+
+### Get in touch
+
+Reach me at:
+
+- E-mail: <mfprezende@gmail.com>
+- Linkedin: [@marcosfpr](https://linkedin.com/in/marcosfpr)
 
 
 
